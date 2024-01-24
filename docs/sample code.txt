@@ -1,0 +1,1 @@
+http://localhost:5000/api/v1/auth/google/redirect?code=4%2F0AfJohXkcYUdSZ67v0rSe1p3FeLXqSZcWqgA6E7Logo-B-HeI414JXfqzHmpHKyWXBfO1hA&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile
